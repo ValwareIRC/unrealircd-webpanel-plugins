@@ -14,10 +14,10 @@ use PHPMailer\PHPMailer\SMTP;
 
 class php_mailer
 {
-	public $name = "PHPMailer()";
+	public $name = "PHPMailer";
 	public $author = "Valware";
 	public $version = "1.0";
-	public $description = "Send mail using PHPMailer()";
+	public $description = "Send mail using PHPMailer";
 	public $email = "v.a.pond@outlook.com";
 
 	function __construct()
