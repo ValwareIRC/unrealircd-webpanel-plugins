@@ -1,4 +1,13 @@
 <?php
+/**
+ * This plugin allows you to use your own email address to get
+ * login notifications (and other future stuff too)
+ * 
+ * LICENSE: GPL-3.0 or later
+ * AUTHOR: Valware (http://www.github.com/ValwareIRC)
+ * COPYRIGHT 2023
+ */
+
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;

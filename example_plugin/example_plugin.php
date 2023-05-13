@@ -1,4 +1,14 @@
 <?php
+/**
+ * This plugin allows you to get a simple idea of how to
+ * make a plugin. This plugin is not very useful by itself,
+ * but I hope you may learn and get creative.
+ * 
+ * LICENSE: GPL-3.0 or later
+ * AUTHOR: Valware (http://www.github.com/ValwareIRC)
+ * COPYRIGHT 2023
+ */
+
 
 class example_plugin
 {
